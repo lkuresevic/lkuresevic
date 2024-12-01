@@ -10,7 +10,7 @@ I'm a Computer Science student pursuing a BSc at the Faculty of Sciences, Univer
 * Training a **reinforcement learning** model to provide synthesis recipes for logic optimization: [repo](https://github.com/lkuresevic/reinforcement_learning_in_logic_synthesis)
   
 ## 📊 Data Science
-* A/B testing for an information retrieval ranking system: [view here](https://github.com/lkuresevic/information_retrieval_ranking_evaluation)
+* A/B testing for an information retrieval ranking system: [repo](https://github.com/lkuresevic/information_retrieval_ranking_evaluation)
 
 ## 🎲 Probability Theory
 * Graph coverage with random walks: repo public soon
