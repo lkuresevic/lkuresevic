@@ -4,17 +4,17 @@ I'm a Computer Science student pursuing a BSc at the Faculty of Sciences, Univer
 # Check out my projects:
 
 ## 🧠 Machine Learning
-* Comparing neural network architectures for environmental sound classification: https://github.com/lkuresevic/urban_sound_classifier
+* Comparing neural network architectures for environmental sound classification: [repo](https://github.com/lkuresevic/urban_sound_classifier)
 
 ## 💻 Electronic Design Automation
-* Training a **reinforcement learning** model to provide synthesis recipes for logic optimization: https://github.com/lkuresevic/reinforcement_learning_in_logic_synthesis
+* Training a **reinforcement learning** model to provide synthesis recipes for logic optimization: [repo](https://github.com/lkuresevic/reinforcement_learning_in_logic_synthesis)
   
 ## 📊 Data Science
-* A/B testing for an information retrieval ranking system: https://github.com/lkuresevic/information_retrieval_ranking_evaluation
+* A/B testing for an information retrieval ranking system: [view here](https://github.com/lkuresevic/information_retrieval_ranking_evaluation)
 
 ## 🎲 Probability Theory
-* Graph coverage with random walks: soon
+* Graph coverage with random walks: repo public soon
 
 ## ⚙️ Other
-* Conway's Game of Life writte in Prolog: https://github.com/lkuresevic/game_of_life_in_prolog
-* A selection of numerical methods implemented using the Wolfram Language: https://github.com/lkuresevic/numerical_methods
+* Conway's Game of Life writte in Prolog: [repo](https://github.com/lkuresevic/game_of_life_in_prolog)
+* A selection of numerical methods implemented using the Wolfram Language: [repo](https://github.com/lkuresevic/numerical_methods)
