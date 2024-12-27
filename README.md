@@ -13,7 +13,7 @@ I'm a Computer Science student pursuing a BSc at the Faculty of Sciences, Univer
 * **A/B testing** for an **information retrieval** ranking system: [repo](https://github.com/lkuresevic/information_retrieval_ranking_evaluation)
 
 ## 🎲 Probability Theory
-* Graph coverage with **random walks**: repo public soon
+* Graph coverage with **random walks**: [repo](https://github.com/lkuresevic/graph_coverage_with_random_walks)
 
 ## ⚙️ Other
 * Conway's Game of Life written in Prolog: [repo](https://github.com/lkuresevic/game_of_life_in_prolog)
