@@ -9,12 +9,12 @@ I'm a Computer Science student pursuing a BSc at the Faculty of Sciences, Univer
 
 ## 💻 Electronic Design Automation
 * Training a **reinforcement learning** model to provide synthesis recipes for **logic optimization**: [repo](https://github.com/lkuresevic/reinforcement_learning_in_logic_synthesis)
-  
-## 📊 Data Science
-* **A/B testing** for an **information retrieval** ranking system: [repo](https://github.com/lkuresevic/information_retrieval_ranking_evaluation)
 
 ## 🎲 Probability Theory
 * Graph coverage with **random walks**: [repo](https://github.com/lkuresevic/graph_coverage_with_random_walks)
+  
+## 📊 Data Science
+* **A/B testing** for an **information retrieval** ranking system: [repo](https://github.com/lkuresevic/information_retrieval_ranking_evaluation)
 
 ## ⚙️ Other
 * Conway's Game of Life written in Prolog: [repo](https://github.com/lkuresevic/game_of_life_in_prolog)
