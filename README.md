@@ -5,6 +5,7 @@ I'm a Computer Science student pursuing a BSc at the Faculty of Sciences, Univer
 
 ## 🧠 Machine Learning
 * Comparing neural network architectures for **environmental sound classification**: [repo](https://github.com/lkuresevic/urban_sound_classifier)
+* **Predicting citations** (*links*) between scientific publications: [repo](https://github.com/lkuresevic/sci-pub-link-prediction)
 
 ## 💻 Electronic Design Automation
 * Training a **reinforcement learning** model to provide synthesis recipes for **logic optimization**: [repo](https://github.com/lkuresevic/reinforcement_learning_in_logic_synthesis)
