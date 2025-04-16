@@ -9,6 +9,7 @@ I'm a Computer Science student pursuing a BSc at the Faculty of Sciences, Univer
 
 ## 💻 Electronic Design Automation
 * Training a **reinforcement learning** model to provide synthesis recipes for **logic optimization**: [repo](https://github.com/lkuresevic/reinforcement_learning_in_logic_synthesis)
+* Evaluating the effect of different netlist orders on performance of **VPR**'s implementation of **PathFinder**: [repo](https://github.com/lkuresevic/orderfinder-for-pathfinder/tree/main)
 
 ## 🎲 Probability Theory
 * Graph coverage with **random walks**: [repo](https://github.com/lkuresevic/graph_coverage_with_random_walks)
