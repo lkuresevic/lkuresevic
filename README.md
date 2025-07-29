@@ -1,5 +1,5 @@
 # About Me
-I'm a Computer Science student pursuing a BSc at the Faculty of Sciences, University of Novi Sad. My domains of interest revolve around **graph machine learning** and **electronic design automation**.
+I'm a Computer Science student pursuing a BSc at the Faculty of Sciences, University of Novi Sad. My domains of interest revolve around post-Moore's law era computing acceleration (mainly **electronic design automation** and **domain specific compilers**).
 
 # Check out my projects:
 
