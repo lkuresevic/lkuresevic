@@ -1,5 +1,5 @@
 # About Me
-I'm a Computer Science student pursuing a BSc at the Faculty of Sciences, University of Novi Sad. My domains of interest revolve around addressing challenges posed by an era of computing post-Moore's law (primarily through **electronic design automation** and **domain specific compilers**).
+I'm a Computer Science student pursuing a BSc at the Faculty of Sciences, University of Novi Sad. My domains of interest revolve around the challenges posed by an era of computing after Moore's law (primarily **electronic design automation** and **domain specific compilers**).
 
 # Check out my projects:
 
